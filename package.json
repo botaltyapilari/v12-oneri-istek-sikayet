@@ -1,0 +1,12 @@
+{
+  "name": "borangkdn-öneri-sikayet-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "borangkdn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BoranGkdn",
+  "license": "MIT",
+  "dependencies": {}
+}
